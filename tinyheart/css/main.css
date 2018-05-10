@@ -1,0 +1,15 @@
+body{
+    padding: 20px;
+}
+.all_bg {
+    display: inline-block;
+    width: 800px;
+    height: 600px;
+    position: relative;
+}
+.all_bg .all_canvas {
+    position: relative;
+    width: 800px;
+    height: 600px;
+    margin: 0;
+}
